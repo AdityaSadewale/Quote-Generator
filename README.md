@@ -10,7 +10,6 @@ A modern, animated, and responsive **Quote Generator** web app with **dark mode*
 - 🌙 **Dark & Light mode toggle**  
 - 🌈 **Animated RGB background**  
 - 🖱️ **Smooth button animations** with gradient & ripple effects  
-- 📋 **Copy quotes** to clipboard  
 - 🐦 **Tweet quotes** directly to Twitter  
 - 🖥️ **Responsive design** for desktop & mobile  
 - 🏆 Eye-friendly colors & subtle UI animations
