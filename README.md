@@ -16,13 +16,6 @@ A modern, animated, and responsive **Quote Generator** web app with **dark mode*
 
 ---
 
-## 🎨 Preview
-
-![Quote Generator Preview](screenshot.png)  
-*Replace `screenshot.png` with your project screenshot.*
-
----
-
 ## 💻 Installation
 
 1. **Clone the repository**
