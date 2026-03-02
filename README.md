@@ -45,6 +45,7 @@ CSS3 (Glassmorphism + Animations)
 
 JavaScript (ES6)
 
+
 📁 File Structure
 Quote-Generator/
 │
@@ -53,8 +54,11 @@ Quote-Generator/
 ├── script.js
 ├── README.md
 └── assets/ (optional for images/icons)
+
+
 📌 License
 This project is licensed under the MIT License.
 Feel free to use, modify, and distribute!
+
 
 Made with ❤️ by Aditya Sadewale
